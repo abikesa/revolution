@@ -16,7 +16,7 @@
 - Open science 
 - [Disclosure risk](hottest.md)
 
-### Vastness: Compute
+### [Vastness](https://abikesa.github.io/californiagrid/): Compute
 - [Quick deploy](https://www.linkedin.com/pulse/openais-identity-crisis-battle-ais-future-azeem-azhar-jem4e)
 - Bayesian credibility
 
